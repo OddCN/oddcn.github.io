@@ -1,6 +1,6 @@
 # OddCN
 
-[Golang builder generator](https://github.com/OddCN/go-builder-generator-idea-plugin)
+[Golang Builder Generator](https://github.com/OddCN/go-builder-generator-idea-plugin)
 
 [GoCloud](https://github.com/cloudlibz/gocloud)
 
