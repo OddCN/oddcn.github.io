@@ -1,10 +1,13 @@
+# OddCN
 
-GoCloud
+[Golang builder generator](https://github.com/OddCN/go-builder-generator-idea-plugin)
 
-Golang builder generator
+[GoCloud](https://github.com/cloudlibz/gocloud)
 
-Android Screen Share
+[Android Screen Share](https://github.com/OddCN/screen-share-to-browser)
 
-PDF copy
+[PDF copy](https://pdfcopy.github.io/)
 
-博客
+[博客](https://oddcn.github.io/)
+
+
