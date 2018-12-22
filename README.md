@@ -8,6 +8,6 @@
 
 [PDF copy](https://pdfcopy.github.io/)
 
-[博客](https://oddcn.github.io/)
+[博客](https://oddcn.github.io/blog)
 
 
